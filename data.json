@@ -1,0 +1,407 @@
+{
+  "data": {
+    "PlanProducto": [
+      {
+        "plazo": 12
+      },
+      {
+        "plazo": 13
+      },
+      {
+        "plazo": 14
+      },
+      {
+        "plazo": 15
+      },
+      {
+        "plazo": 16
+      },
+      {
+        "plazo": 17
+      },
+      {
+        "plazo": 18
+      },
+      {
+        "plazo": 19
+      },
+      {
+        "plazo": 20
+      },
+      {
+        "plazo": 21
+      },
+      {
+        "plazo": 22
+      },
+      {
+        "plazo": 23
+      },
+      {
+        "plazo": 24
+      },
+      {
+        "plazo": 25
+      },
+      {
+        "plazo": 26
+      },
+      {
+        "plazo": 27
+      },
+      {
+        "plazo": 28
+      },
+      {
+        "plazo": 29
+      },
+      {
+        "plazo": 30
+      },
+      {
+        "plazo": 31
+      },
+      {
+        "plazo": 32
+      },
+      {
+        "plazo": 33
+      },
+      {
+        "plazo": 34
+      },
+      {
+        "plazo": 35
+      },
+      {
+        "plazo": 36
+      },
+      {
+        "plazo": 37
+      },
+      {
+        "plazo": 38
+      },
+      {
+        "plazo": 39
+      },
+      {
+        "plazo": 40
+      },
+      {
+        "plazo": 41
+      },
+      {
+        "plazo": 42
+      },
+      {
+        "plazo": 43
+      },
+      {
+        "plazo": 44
+      },
+      {
+        "plazo": 45
+      },
+      {
+        "plazo": 46
+      },
+      {
+        "plazo": 47
+      },
+      {
+        "plazo": 48
+      },
+      {
+        "plazo": 49
+      },
+      {
+        "plazo": 50
+      },
+      {
+        "plazo": 51
+      },
+      {
+        "plazo": 52
+      },
+      {
+        "plazo": 53
+      },
+      {
+        "plazo": 54
+      },
+      {
+        "plazo": 55
+      },
+      {
+        "plazo": 56
+      },
+      {
+        "plazo": 57
+      },
+      {
+        "plazo": 58
+      },
+      {
+        "plazo": 59
+      },
+      {
+        "plazo": 60
+      }
+    ],
+    "PlanProductoAe": [
+      {
+        "plazo": 6
+      },
+      {
+        "plazo": 7
+      },
+      {
+        "plazo": 8
+      },
+      {
+        "plazo": 9
+      },
+      {
+        "plazo": 10
+      },
+      {
+        "plazo": 11
+      },
+      {
+        "plazo": 12
+      },
+      {
+        "plazo": 13
+      },
+      {
+        "plazo": 14
+      },
+      {
+        "plazo": 15
+      },
+      {
+        "plazo": 16
+      },
+      {
+        "plazo": 17
+      },
+      {
+        "plazo": 18
+      },
+      {
+        "plazo": 19
+      },
+      {
+        "plazo": 20
+      },
+      {
+        "plazo": 21
+      },
+      {
+        "plazo": 22
+      },
+      {
+        "plazo": 23
+      },
+      {
+        "plazo": 24
+      },
+      {
+        "plazo": 25
+      },
+      {
+        "plazo": 26
+      },
+      {
+        "plazo": 27
+      },
+      {
+        "plazo": 28
+      },
+      {
+        "plazo": 29
+      },
+      {
+        "plazo": 30
+      },
+      {
+        "plazo": 31
+      },
+      {
+        "plazo": 32
+      },
+      {
+        "plazo": 33
+      },
+      {
+        "plazo": 34
+      },
+      {
+        "plazo": 35
+      },
+      {
+        "plazo": 36
+      }
+    ]
+  },
+  "data_campaing": {
+    "campaigns": [
+      {
+        "producto": "DE",
+        "monto": "12000.00",
+        "monto_minimo": "100.00",
+        "monto_max_canal": "7000"
+      },
+      {
+        "producto": "EC",
+        "monto": "10200.00",
+        "monto_minimo": "1500.00",
+        "monto_max_canal": "7000"
+      }
+    ]
+  },
+  "SolicitudResponse": {
+    "monto": "2500.00",
+    "cuotas": "60",
+    "tcea": "6.80",
+    "montoMensual": "1060",
+    "banco": "Banco Interbank",
+    "correo": "******93@**il.com"
+  },
+  "SolicitudResponseAe": {
+    "monto": "4500.00",
+    "cuotas": "12",
+    "tcea": "6.80",
+    "montoMensual": "560.23",
+    "banco": "Banco Interbank",
+    "correo": "******93@**il.com"
+  },
+  "simulacion": {
+    "PlanProducto": [
+      {
+        "plazo": "55",
+        "montoMensual": "960",
+        "porc_tcea": "6.80",
+        "montoTotal": "17761.500"
+      },
+      {
+        "plazo": "60",
+        "montoMensual": "860",
+        "porc_tcea": "6.80",
+        "montoTotal": "18856.500"
+      },
+      {
+        "plazo": "50",
+        "montoMensual": "1060",
+        "porc_tcea": "6.80",
+        "montoTotal": "19899.500"
+      }
+    ],
+    "PlanProductoAe": [
+      {
+        "plazo": "12",
+        "montoMensual": "542.23",
+        "porc_tcea": "90.43",
+        "montoTotal": "17761.500"
+      },
+      {
+        "plazo": "24",
+        "montoMensual": "353.39",
+        "porc_tcea": "6.80",
+        "montoTotal": "18856.500"
+      },
+      {
+        "plazo": "36",
+        "montoMensual": "297.95",
+        "porc_tcea": "6.80",
+        "montoTotal": "19899.500"
+      }
+    ]
+  },
+  "cronogramaProducto": [
+    {
+      "seguro": "9.90",
+      "fechaPrimerPago": "21/11/2023"
+    }
+  ],
+  "description": {
+    "cardsDescription": [
+      {
+        "nrotarj": "************0371",
+        "codcci": "0000000000",
+        "destarj": "CENCOSUD MASTERCARD",
+        "agencia": "",
+        "tipotarj": "TC",
+        "producto": "TC",
+        "moneda": "S/.",
+        "saldotarj": "4.24",
+        "pagomin": "147.00",
+        "pagotot": "2,464.77",
+        "fechapago": "05/11/2022",
+        "lineacredito": "3,500.00",
+        "lineaavance": "4.00",
+        "lineaavancetotal": "2,450.00",
+        "lineacompras": "4.24",
+        "saldoutilizado": "3,495.76",
+        "fechacierre": "11 sep,10 oct",
+        "nrocta": "5292060017523275",
+        "mes1": "--",
+        "url1": "?trx=102&type=pdf&dat=0005292060017523275_10102022.pdf",
+        "mes2": "SET",
+        "url2": "?trx=102&type=pdf&dat=0005292060017523275_10092022.pdf",
+        "mes3": "AGO",
+        "url3": "?trx=102&type=pdf&dat=0005292060017523275_10082022.pdf",
+        "estado": "A",
+        "fechavcto": "2707",
+        "nrotarjadic": "",
+        "estado11": "A",
+        "estadocliente11": "Y",
+        "estadocuenta11": "A",
+        "lastnrotarj11": "1673",
+        "bloqueov11": "N"
+      }
+    ],
+    "products": [],
+    "detail": {
+      "codrpta": "00",
+      "msgrpta": "DETALLE DE TARJETA DE CREDITO",
+      "nroreg": "2",
+      "nroreg2": "0"
+    }
+  },
+  "ResponseByControl": [
+    {
+      "flagControl": 1,
+      "product": {
+        "segmento": "No aplica",
+        "producto": "EC",
+        "mensaje": "Retira el excedente de tu campaña y cumple tus sueños, llamando al 6107900 o acércate a nuestras agencias ubicadas en Wong y Metro"
+      }
+    },
+    {
+      "flagControl": 5,
+      "product": {
+        "segmento": "1",
+        "producto": "EC",
+        "mensaje": "Retira tu Crédito Efectivo Cencosud y cumple tus sueños, llamamos al 6107900 o acércate a nuestras agencias ubicadas en Wong y Metro"
+      }
+    },
+    {
+      "flagControl": 5,
+      "product": {
+        "segmento": "1",
+        "producto": "DE",
+        "mensaje": "Retira tu Disposición de Efectivo y cumple tus sueños, llamamos al 6107900 o acércate a nuestras agencias ubicadas en Wong y Metro"
+      }
+    },
+    {
+      "flagControl": 7,
+      "product": {
+        "segmento": "No aplica",
+        "producto": "EC",
+        "mensaje": "Retira el excedente de tu campaña y cumple tus sueños, llamando al 6107900 o acércate a nuestras agencias ubicadas en Wong y Metro"
+      }
+    }
+  ]
+}
